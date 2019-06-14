@@ -1,4 +1,4 @@
 # Learn The Hard Way - Regex
 
 ## Resources
-[https://www.regular-expressions.info/tutorial.html]www.regular-expressions.info
+[www.regular-expressions.info](https://www.regular-expressions.info/tutorial.html target="_blank")
