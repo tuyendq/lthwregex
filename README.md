@@ -6,11 +6,13 @@
 \+ : one or more times  
 \* : zero or more times  
 
-## Group
-
 ## Anchor
 ^ : start of string  
 $ : end of string  
+
+## Group
+[]  
+{}  
 
 ## Resources
 [www.regular-expressions.info](https://www.regular-expressions.info/tutorial.html) 
