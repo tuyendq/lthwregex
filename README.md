@@ -1,9 +1,9 @@
 # Learn The Hard Way - Regex
 
 ## Wildcard
-. : one character  
-? : one or zero character  
-*  
+. : one any character  
+? : zero or one time  
+* : zero or more times  
 
 ## Group
 
