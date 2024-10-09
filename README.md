@@ -3,8 +3,8 @@
 ## Wildcard
 . : one any character  
 ? : zero or one time  
-+ : one or more times  
-* : zero or more times  
+\+ : one or more times  
+\* : zero or more times  
 
 ## Group
 
