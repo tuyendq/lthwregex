@@ -1,8 +1,8 @@
 # Learn The Hard Way - Regex
 
 ## Wildcard
-. : one character
-? : one or zero character
+. : one character 
+? : one or zero character 
 * 
 
 ## Group
